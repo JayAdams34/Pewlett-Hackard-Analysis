@@ -21,3 +21,4 @@ Based off the results of the Pewlett-Hackard-Analysis it appears that there is n
 
 
 <img src="ph_ana_3.png" width="50%" height="50%" title="Retiring Title Counts">  
+<img src="ph_ana_4.png" width="50%" height="50%" title="Non-Retiring Title Counts">  
