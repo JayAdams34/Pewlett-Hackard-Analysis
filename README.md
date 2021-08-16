@@ -20,4 +20,4 @@ Based off the results of the Pewlett-Hackard-Analysis it appears that 90,398 rol
 Based off the results of the Pewlett-Hackard-Analysis it appears that there is not enough retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
 
 <img src="ph_ana_3.png" width="50%" height="50%" title="Retiring Title Counts">  
-<img src="ph_ana_4.png" width="50%" height="50%" title="Non-Retiring Title Counts">  
+<img src="ph_ana_5.png" width="50%" height="50%" title="Non-Retiring Title Counts">  
