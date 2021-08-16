@@ -4,7 +4,7 @@
 The purpose of this analysis was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
 ## Pewlett-Hackard Analysis Results
-Based off the results of the Pewlett-Hackard-Analysis it appears that:
+Based off the results of the Pewlett-Hackard-Analysis it appears that:  
     - The Senior Engineer position had the most retirees.
     - The manager position had the least retirees.
     - The Senior Staff postion had the most eligible mentors.
