@@ -1,13 +1,12 @@
-# Pewlett-Hackard-Analysis
+# Pewlett-Hackard-Analysis 
 
-## Overview of PH-Analysis
+## Overview of Pewlett-Hackard Analysis
+The purpose of this analysis was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
-<img src="ph_ana_2.png" width="70%" height="70%" title="Retiring Title Counts">  
+## Pewlett-Hackard Analysis Results
+
+<img src="ph_ana_3.png" width="70%" height="70%" title="Retiring Title Counts">  
 
 <img src="ph_ana.png" width="30%" height="30%" title="Mentorship Eligibility">  
-
-
-## PH-Analysis Results
-hi
-## PH-Analysis Summary
+## Pewlett-Hackard Analysis Summary
 hi
