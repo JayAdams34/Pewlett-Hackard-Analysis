@@ -5,7 +5,7 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 ## Pewlett-Hackard Analysis Results
 
-<img src="ph_ana_3.png" width="60%" height="60%" title="Retiring Title Counts">  
+<img src="ph_ana_3.png" width="50%" height="50%" title="Retiring Title Counts">  
 
 <img src="ph_ana.png" width="30%" height="30%" title="Mentorship Eligibility">  
 ## Pewlett-Hackard Analysis Summary
