@@ -13,7 +13,8 @@ Based off the results of the Pewlett-Hackard-Analysis it appears that:
 <img src="ph_ana_2.png" width="70%" height="70%" title="Retiring Title Counts">  
 
 <img src="ph_ana.png" width="30%" height="30%" title="Mentorship Eligibility">  
-## Pewlett-Hackard Analysis Summary
+
+## Pewlett-Hackard Analysis Summary  
 Based off the results of the Pewlett-Hackard-Analysis it appears that 90,398 roles will need to be filled as the "silver tsunami" begins to make impact.
 
 Based off the results of the Pewlett-Hackard-Analysis it appears that there is not enough retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
