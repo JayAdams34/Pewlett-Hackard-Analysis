@@ -4,7 +4,7 @@
 
 <img src="ph_ana_2.png" width="60%" height="60%" title="Retiring Title Counts">  
 
-<img src="ph_ana.png" width="60%" height="60%" title="Mentorship Eligibility">
+<img src="ph_ana.png" width="30%" height="30%" title="Mentorship Eligibility">
 ## PH-Analysis Results
 
 ## PH-Analysis Summary
