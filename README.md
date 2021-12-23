@@ -1,4 +1,5 @@
 # Pewlett-Hackard-Analysis 
+Please reach out to me, Jamar Adams, at adams.jamar757@gmail.com
 
 ## Overview of Pewlett-Hackard Analysis
 The purpose of this analysis was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
